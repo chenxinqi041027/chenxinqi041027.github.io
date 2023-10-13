@@ -1,17 +1,16 @@
 ---
-layout: article
-title: USTC A&Q Forum
-tags: A&Q Forum
-article_header:
-  type: cover
-  image:
-    src: /images/蜗壳动植物论坛.png
+title: Welcome
+tags: TeXt
 ---
 
-Welcome to our forum dedicated to exploring and sharing experiences and information about animals and plants. 
-We encourage users to upload pictures of campus animals and plants, but please make sure that the files meet the specifications and comply with legal requirements, and ensure that the pictures are clear and of high quality. 
-Let's work together to create a friendly and beneficial community! 
-Click on the link below to enter the identification window!
-↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-[Plants](http://localhost:8504/)
-[Animals](http://localhost:8506/)
+you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:
+
+You may want to [config the site](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/configuration) or [writing a post](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/writing-posts) next. Please feel free to [create an issue](https://github.com/kitian616/jekyll-TeXt-theme/issues) or [send me email](mailto:kitian616@outlook.com) if you have any questions.
+
+<!--more-->
+
+---
+
+If you like TeXt, don't forget to give me a star. :star2:
+
+[![Star This Project](https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&style=social)](https://github.com/kitian616/jekyll-TeXt-theme/)
