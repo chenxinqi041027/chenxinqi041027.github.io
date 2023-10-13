@@ -1,14 +1,24 @@
 ---
 title: A&Q Identify
 tags: Identify
+article_header:
+  type: cover
+  image:
+    src: /images/forum.png
 ---
 
 Welcome to our forum dedicated to exploring and sharing experiences and information about animals and plants. 
+
 We encourage users to upload pictures of campus animals and plants, but please make sure that the files meet the specifications and comply with legal requirements, and ensure that the pictures are clear and of high quality. 
+
 Let's work together to create a friendly and beneficial community! 
+
 Click on the link below to enter the identification window!
+
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
 [Plants](http://localhost:8504/)
+
 [Animals](http://localhost:8506/)
 
 <!--more-->
