@@ -1,4 +1,5 @@
 ---
+layout: article
 title: USTC A&Q Forum
 tags: A&Q Forum
 article_header:
@@ -14,5 +15,3 @@ Click on the link below to enter the identification window!
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 [Plants](http://localhost:8504/)
 [Animals](http://localhost:8506/)
-
-<!--more-->
