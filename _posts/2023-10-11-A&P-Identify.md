@@ -17,8 +17,8 @@ article_header:
 
 #### ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
-[Plants](http://localhost:8504/)
+[Plants](http://contest.tongli.ink:8504/)
 
-[Animals](http://localhost:8506/)
+[Animals](http://contest.tongli.ink:8506/)
 
 <!--more-->
